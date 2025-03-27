@@ -6,7 +6,7 @@
 
 / {
 
-    behaviors {
+       behaviors {
 
         // Positional Homerow mods
         // Homerow mods that prevent accidental activations when rolling keys,
